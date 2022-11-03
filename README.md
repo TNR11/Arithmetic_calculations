@@ -1,4 +1,4 @@
-<h1>Arithmetic Calculatiions</h1>
+<h1>Arithmetic Calculations</h1>
 
 <h2>Description</h2>
 A program designed to ask the user for the radius of a circle and using this radius; calculate the area and perimeter. The program then outputs all three of these parameters.
